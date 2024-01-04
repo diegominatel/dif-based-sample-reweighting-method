@@ -4,6 +4,8 @@ This repository is the official implementation of the paper entitled "DIF-SR: A 
 
 ## BibTeX Citation
 
+If you use any part of this code in your research, please cite it using the following BibTex entry:
+
 ```latex
 @inproceedings{minatel2023dif,
   title={DIF-SR: A Differential Item Functioning-Based Sample Reweighting Method},
